@@ -15,4 +15,5 @@
   --large-line-height: 130%;
   --font-style: normal;
   --is-light: visible;
+  --button-color: var(--accent-color);
 }
