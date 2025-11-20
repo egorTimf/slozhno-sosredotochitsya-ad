@@ -131,7 +131,7 @@ h2 {
   line-height: 1.4628rem;
 }
 
-.main{
+.main {
   padding: 40px 10px;
   display: flex;
   flex-direction: column;
@@ -149,7 +149,8 @@ h2 {
 }
 
 .thesis__title {
-  color: var(--h2-color);  
+  color: 
+    var(--h2-color);  
   font-size: 18px;
   line-height: 1.4628rem;
 }
@@ -189,7 +190,6 @@ h2 {
   display: flex;
   flex-direction: column;
   gap: 10px;
-  
 }
 
 .image {
@@ -354,7 +354,7 @@ h2 {
     grid-row:2;
     grid-column: auto;
   }
-  
+
   .footer__title {
     font-size: (7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
   }
