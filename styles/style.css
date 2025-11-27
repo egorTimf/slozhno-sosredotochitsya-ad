@@ -149,8 +149,7 @@ h2 {
 }
 
 .thesis__title {
-  color: 
-    var(--h2-color);  
+  color: var(--h2-color);  
   font-size: 18px;
   line-height: 1.4628rem;
 }
@@ -168,13 +167,13 @@ h2 {
   line-height: 1.4628rem;
 }
 
-.thin-title { 
+.thin-title {
   font-size: 18px;
   font-weight: 400;
   line-height: 1.4628rem;
 }
 
-.text-link {  
+.text-link {
   text-decoration: none;
   text-shadow: 3px 2px 0 var(--accent-color);
   line-height: 1.4628rem;
@@ -186,7 +185,7 @@ h2 {
   gap: 10px;
 }
 
-.picture__container { 
+.picture__container {
   display: flex;
   flex-direction: column;
   gap: 10px;
@@ -200,13 +199,13 @@ h2 {
   object-position: center;
 }
 
-.footer { 
+.footer {
   display: grid;
   height: 100vh;
   padding: 10px;
 }
 
-.footer__title { 
+.footer__title {
   font-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
   font-weight: 700;
   color: var(--h1-color);
